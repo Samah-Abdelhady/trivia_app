@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack API Final Project
 
 ## Full Stack Trivia
@@ -42,3 +43,6 @@ The `./frontend` directory contains a complete React frontend to consume the dat
 Pay special attention to what data the frontend is expecting from each API response to help guide how you format your API. 
 
 [View the README.md within ./frontend for more details.](./frontend/README.md)
+=======
+# trivia_app
+>>>>>>> b8a94d9fdf5b1d3bd4140c4ec4252276ea1039b0
